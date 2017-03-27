@@ -216,5 +216,6 @@ struct car {
     }
 }
 
+print("hello world")
 
 
